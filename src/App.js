@@ -1,9 +1,9 @@
-import InputTutorial from './UseState/InputTutorial';
+import CounterTutorial from './UseReducer/CounterTutorial';
 
 const App = () => {
   return (
     <>
-      <InputTutorial />
+      <CounterTutorial />
     </>
   );
 }
