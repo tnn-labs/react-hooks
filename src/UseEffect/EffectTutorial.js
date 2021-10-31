@@ -8,7 +8,6 @@ const EffectTutorial = () => {
     axios.get("https://jsonplaceholder.typicode.com/posts")
       .then((response) => {
         setData(response.data);
-        console.log(response.data);
       });
   }, []);
 

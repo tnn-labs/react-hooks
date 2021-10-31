@@ -1,9 +1,9 @@
-import EffectTutorial from './UseEffect/EffectTutorial';
+import RefTutorial from './UseRef/RefTutorial';
 
 const App = () => {
   return (
     <>
-      <EffectTutorial />
+      <RefTutorial />
     </>
   );
 }
