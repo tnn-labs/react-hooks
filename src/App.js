@@ -1,9 +1,9 @@
-import CounterTutorial from './UseReducer/CounterTutorial';
+import EffectTutorial from './UseEffect/EffectTutorial';
 
 const App = () => {
   return (
     <>
-      <CounterTutorial />
+      <EffectTutorial />
     </>
   );
 }
