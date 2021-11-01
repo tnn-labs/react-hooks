@@ -1,9 +1,9 @@
-import RefTutorial from './UseRef/RefTutorial';
+import LayoutEffectTutorial from './UseLayoutEffect/LayoutEffectTutorial';
 
 const App = () => {
   return (
     <>
-      <RefTutorial />
+      <LayoutEffectTutorial />
     </>
   );
 }
