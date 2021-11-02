@@ -1,9 +1,9 @@
-import LayoutEffectTutorial from './UseLayoutEffect/LayoutEffectTutorial';
+import ImperativeHandleTutorial from './UseImperativeHandle/ImperativeHandleTutorial';
 
 const App = () => {
   return (
     <>
-      <LayoutEffectTutorial />
+      <ImperativeHandleTutorial />
     </>
   );
 }
