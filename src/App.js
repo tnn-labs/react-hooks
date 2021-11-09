@@ -1,9 +1,9 @@
-import ImperativeHandleTutorial from './UseImperativeHandle/ImperativeHandleTutorial';
+import ContextTutorial from './UseContext/ContextTutorial';
 
 const App = () => {
   return (
     <>
-      <ImperativeHandleTutorial />
+      <ContextTutorial />
     </>
   );
 }
