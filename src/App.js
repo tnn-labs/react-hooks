@@ -1,9 +1,9 @@
-import MemoTutorial from './UseMemo/MemoTutorial';
+import CallBackTutorial from './UseCallback/CallbackTutorial';
 
 const App = () => {
   return (
     <>
-      <MemoTutorial />
+      <CallBackTutorial />
     </>
   );
 }
