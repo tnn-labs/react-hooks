@@ -1,9 +1,9 @@
-import ContextTutorial from './UseContext/ContextTutorial';
+import MemoTutorial from './UseMemo/MemoTutorial';
 
 const App = () => {
   return (
     <>
-      <ContextTutorial />
+      <MemoTutorial />
     </>
   );
 }
